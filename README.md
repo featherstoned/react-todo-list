@@ -1,7 +1,6 @@
 # ToDo List with React
 ### Description
-A functional and interactive todo list application using React's component-based architecture.
-This project represents a todo list application built with React. It consists of three main components: `Todo`, `TodoForm`, and `App`. The `Todo` component handles rendering individual todo items, the todo text, and a remove button. The `TodoForm` component manages the form for adding new todos. The `App` component acts as the main container, maintaining the state of the todo list, providing functions to add and remove todos, and rendering the list of todos and the todo form. 
+A functional and interactive todo list application using React's component-based architecture. It consists of three main components: `Todo`, `TodoForm`, and `App`. The `Todo` component handles rendering individual todo items, the todo text, and a remove button. The `TodoForm` component manages the form for adding new todos. The `App` component acts as the main container, maintaining the state of the todo list, providing functions to add and remove todos, and rendering the list of todos and the todo form. 
 
 ### Installation and Usage
 Clone the repository or download the code files. Once you have the code on your local machine, open your terminal and navigate to the project directory. Next, install the required dependencies by executing the command "npm install". Finally, start the development server by running the command "npm start". These steps will set up the project and launch the application for local development.
